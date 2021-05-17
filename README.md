@@ -21,4 +21,5 @@ Others:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GentIeman&layout=compact)](https://github.com/GentIeman/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GentIeman&show_icons=true&theme=dracula)](https://github.com/GentIeman/github-readme-stats)
 
