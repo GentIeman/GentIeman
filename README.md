@@ -10,6 +10,10 @@ Frameworks:
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-1e272e?style=for-the-badge&logo=vuedotjs) ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-1e272e?style=for-the-badge&logo=nuxtdotjs)
 
+Database:
+
+![MySQL](https://img.shields.io/badge/-MySQL-1e272e?style=for-the-badge&logo=mysql) ![MondoDB](https://img.shields.io/badge/-MongoDB-1e272e?style=for-the-badge&logo=mongodb)
+
 Others:
 
 ![Node.js](https://img.shields.io/badge/-Node.js-1e272e?style=for-the-badge&logo=nodedotjs) ![Express](https://img.shields.io/badge/-Express-1e272e?style=for-the-badge&logo=express) ![Jquery](https://img.shields.io/badge/-Jquery-1e272e?style=for-the-badge&logo=Jquery) ![C++](https://img.shields.io/badge/-C++-1e272e?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
