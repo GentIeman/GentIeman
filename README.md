@@ -19,6 +19,7 @@ Others:
 ![Node.js](https://img.shields.io/badge/-Node.js-1e272e?style=for-the-badge&logo=nodedotjs) ![Express](https://img.shields.io/badge/-Express-1e272e?style=for-the-badge&logo=express) ![C++](https://img.shields.io/badge/-C++-1e272e?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC) ![CSS](https://img.shields.io/badge/-CSS-1e272e?style=for-the-badge&logo=css3&logoColor=1572B6) 
 
 ![Stylus](https://img.shields.io/badge/-Stylus-1e272e?style=for-the-badge&logo=Stylus) ![SASS](https://img.shields.io/badge/-SCSS-1e272e?style=for-the-badge&logo=sass) ![MySQL](https://img.shields.io/badge/-SQL-1e272e?style=for-the-badge&logo=mysql) ![Webpack](https://img.shields.io/badge/-Webpack-1e272e?style=for-the-badge&logo=webpack)
+![PHP](https://img.shields.io/badge/-PHP-1e272e?style=for-the-badge&logo=php)
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Gent1men) [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/Gent1men)
