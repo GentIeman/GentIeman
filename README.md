@@ -24,11 +24,10 @@
 
 ### Other Tools
 
-![BEM](https://img.shields.io/badge/-BEM-1e272e?style=for-the-badge&logo=bem) ![MySQL](https://img.shields.io/badge/-MySQL-1e272e?style=for-the-badge&logo=mysql) 
+![BEM](https://img.shields.io/badge/-BEM-1e272e?style=for-the-badge&logo=bem) ![SQL](https://img.shields.io/badge/-SQL-1e272e?style=for-the-badge&logo=mysql) 
 ![MondoDB](https://img.shields.io/badge/-MongoDB-1e272e?style=for-the-badge&logo=mongodb)
 ![Node.js](https://img.shields.io/badge/-Node.js-1e272e?style=for-the-badge&logo=nodedotjs) ![Express](https://img.shields.io/badge/-Express-1e272e?style=for-the-badge&logo=express) ![CSS](https://img.shields.io/badge/-CSS-1e272e?style=for-the-badge&logo=css3&logoColor=1572B6)<br >
-![Stylus](https://img.shields.io/badge/-Stylus-1e272e?style=for-the-badge&logo=Stylus) ![SASS](https://img.shields.io/badge/-SCSS-1e272e?style=for-the-badge&logo=sass) ![MySQL](https://img.shields.io/badge/-SQL-1e272e?style=for-the-badge&logo=mysql) ![Webpack](https://img.shields.io/badge/-Webpack-1e272e?style=for-the-badge&logo=webpack)
-![PHP](https://img.shields.io/badge/-PHP-1e272e?style=for-the-badge&logo=php)
+![Stylus](https://img.shields.io/badge/-Stylus-1e272e?style=for-the-badge&logo=Stylus) ![SASS](https://img.shields.io/badge/-SCSS-1e272e?style=for-the-badge&logo=sass) ![Webpack](https://img.shields.io/badge/-Webpack-1e272e?style=for-the-badge&logo=webpack) ![Strapi](https://img.shields.io/badge/-Strapi-1e272e?style=for-the-badge&logo=strapi) ![Vite](https://img.shields.io/badge/-Vite-1e272e?style=for-the-badge&logo=vite) 
 <br />
 <br />
 
