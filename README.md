@@ -7,11 +7,6 @@
 - 🔧 Trying to improve my code
 - 😂 I try to be positive even when things don't work out.
 
-### Connect with me:
-
-[![Twitter](https://img.shields.io/badge/-Twitter-1e272e?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/GentIemanes)
-[![Telegram](https://img.shields.io/badge/-Telegram-1e272e?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Gent1men)
-
 ## Languages and Tools:
 
 ### Main
