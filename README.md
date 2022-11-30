@@ -25,16 +25,3 @@
 ![Stylus](https://img.shields.io/badge/-Stylus-1e272e?style=for-the-badge&logo=Stylus) ![SASS](https://img.shields.io/badge/-SCSS-1e272e?style=for-the-badge&logo=sass) ![Webpack](https://img.shields.io/badge/-Webpack-1e272e?style=for-the-badge&logo=webpack) ![Strapi](https://img.shields.io/badge/-Strapi-1e272e?style=for-the-badge&logo=strapi) ![Vite](https://img.shields.io/badge/-Vite-1e272e?style=for-the-badge&logo=vite) ![Supabase](https://img.shields.io/badge/-Supabase-1e272e?style=for-the-badge&logo=supabase) 
 <br />
 <br />
-
-## My npm module 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GentIeman&repo=v-month-picker&show_owner=true)](https://github.com/GentIeman/v-month-picker)
-
-<details>
-  <summary>:zap: Some of my GitHub Stats</summary>
-  <br />
-  <img alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GentIeman&layout=compact" />
-  <br />
-  <br />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GentIeman&show_icons=true&hide_title=true&hide=issues,contribs" />
-</details>
-
