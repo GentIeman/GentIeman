@@ -1,6 +1,6 @@
 ## Hi, my name is Ilya - AKA [GentIeman]🎩
 
-### and... I'm a middle frontend developer
+### and... I'm front-end developer
 
 - 📖 I'm constantly learning something new
 - 🤔 I repeat already studied material
