@@ -17,11 +17,34 @@
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-1e272e?style=for-the-badge&logo=vuedotjs) ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-1e272e?style=for-the-badge&logo=nuxtdotjs)
 
-### Other Tools
 
-![BEM](https://img.shields.io/badge/-BEM-1e272e?style=for-the-badge&logo=bem) ![SQL](https://img.shields.io/badge/-SQL-1e272e?style=for-the-badge&logo=mysql) 
-![MondoDB](https://img.shields.io/badge/-MongoDB-1e272e?style=for-the-badge&logo=mongodb)
-![Node.js](https://img.shields.io/badge/-Node.js-1e272e?style=for-the-badge&logo=nodedotjs) ![Express](https://img.shields.io/badge/-Express-1e272e?style=for-the-badge&logo=express) ![CSS](https://img.shields.io/badge/-CSS-1e272e?style=for-the-badge&logo=css3&logoColor=1572B6)<br >
-![Stylus](https://img.shields.io/badge/-Stylus-1e272e?style=for-the-badge&logo=Stylus) ![SASS](https://img.shields.io/badge/-SCSS-1e272e?style=for-the-badge&logo=sass) ![Webpack](https://img.shields.io/badge/-Webpack-1e272e?style=for-the-badge&logo=webpack) ![Strapi](https://img.shields.io/badge/-Strapi-1e272e?style=for-the-badge&logo=strapi) ![Vite](https://img.shields.io/badge/-Vite-1e272e?style=for-the-badge&logo=vite) ![Supabase](https://img.shields.io/badge/-Supabase-1e272e?style=for-the-badge&logo=supabase) ![Storybook](https://img.shields.io/badge/-Storybook-1e272e?style=for-the-badge&logo=storybook) 
-<br />
-<br />
+### Other Tools
+<details>
+<summary><b>Styles</b></summary>
+
+![Stylus](https://img.shields.io/badge/-Stylus-1e272e?style=for-the-badge&logo=Stylus)
+![CSS](https://img.shields.io/badge/-CSS-1e272e?style=for-the-badge&logo=css3&logoColor=1572B6) 
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-1e272e?style=for-the-badge&logo=tailwindcss)
+![SASS](https://img.shields.io/badge/-SASS-1e272e?style=for-the-badge&logo=sass)
+</details>
+<details>
+<summary><b>Database</b></summary>
+
+![SQL](https://img.shields.io/badge/-SQL-1e272e?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1e272e?style=for-the-badge&logo=mongodb)
+![Supabase](https://img.shields.io/badge/-Supabase-1e272e?style=for-the-badge&logo=supabase)
+![Strapi](https://img.shields.io/badge/-Strapi-1e272e?style=for-the-badge&logo=strapi)
+</details>
+<details>
+<summary><b>Serve</b></summary>
+
+![Node.js](https://img.shields.io/badge/-Node.js-1e272e?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/-Express-1e272e?style=for-the-badge&logo=express)
+</details>
+<details>
+<summary><b>Builders</b></summary>
+
+![Webpack](https://img.shields.io/badge/-Webpack-1e272e?style=for-the-badge&logo=webpack)
+![Vite](https://img.shields.io/badge/-Vite-1e272e?style=for-the-badge&logo=vite)
+![Storybook](https://img.shields.io/badge/-Storybook-1e272e?style=for-the-badge&logo=storybook)
+</details>
