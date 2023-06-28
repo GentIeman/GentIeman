@@ -1,4 +1,4 @@
-## Hi, my name is Ilya - AKA [GentIeman]🎩
+## Hi, my name is Ilya
 
 ### and... I'm front-end developer
 
