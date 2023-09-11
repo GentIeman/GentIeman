@@ -40,6 +40,7 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-1e272e?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/-Express-1e272e?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/-NestJS-1e272e?style=for-the-badge&logo=nestjs)
 </details>
 <details>
 <summary><b>Builders</b></summary>
