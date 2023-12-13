@@ -11,7 +11,7 @@
 
 ### Main
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-1e272e?style=for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1e272e?style=for-the-badge&logo=JavaScript) ![TypeScript](https://img.shields.io/badge/-TypeScript-1e272e?style=for-the-badge&logo=TypeScript)
 
 ### Frameworks
 
